@@ -1,4 +1,4 @@
-package dev.felipe.eletronicpoint.service;
+package dev.felipe.eletronicpoint.services;
 
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
